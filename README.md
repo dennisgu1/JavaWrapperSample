@@ -2,11 +2,11 @@
 Veracode Java Wrapper API Sample
 
 This JavaWrapperSample.java include FIVE Java wrapper APIs:
-getAppList()
-getAppInfo()
-getBuildList()
-getBuildInfo()
-getDetailedReport()
+getAppList();
+getAppInfo();
+getBuildList();
+getBuildInfo();
+getDetailedReport();
 
 
 
