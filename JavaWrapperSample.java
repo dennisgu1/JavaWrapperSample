@@ -12,9 +12,9 @@ import com.veracode.apiwrapper.wrapper.cli.exceptions.ApiException;
 public class JavaWrapperSample {
 	public static void main (String[] args) {
 		final boolean isApiCredential = false;
-		final String username = "verainternal_zgu";
-	    final String password = "Atari111";
-		final String appName = "zgu-test1";
+		final String username = "xxxxx";
+	    	final String password = "xxxxx";
+		final String appName = "xxxxx";
 
 	    System.out.println("This is Java Wrapper API Sample code");
 
